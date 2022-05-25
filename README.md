@@ -36,13 +36,11 @@ You can click the Preview link to take a look at your changes.
   ![Python](https://img.shields.io/badge/Python-3.8-fbd240?style=plastic&logo=python&logoColor=white)
   ![java](https://img.shields.io/badge/Java-1.8+-ec1d1e?style=plastic&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-17+-045c9c?style=plastic&logo=c%2B%2B&logoColor=white)
-  ![matlab](https://img.shields.io/badge/MATLAB-GNU%20OCTAVE+-ce4408?style=plastic&logo=matlab&logoColor=white)
   ![mysql](https://img.shields.io/badge/MySQL-SQL+-045b8b?style=plastic&logo=mysql&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-2.17.1-43c4fc?style=plastic&logo=dart&logoColor=white)
   ![C#](https://img.shields.io/badge/C-10-87418b?style=plastic&logo=csharp&logoColor=white)
   ![XAML](https://img.shields.io/badge/XAML-.NET-529be7?style=plastic&logo=xaml&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-10.1-f4dc1c?style=plastic&logo=javascript&logoColor=white)
-
   ### Frameworks
   ![WPF](https://img.shields.io/badge/WPF-4.5-84abf5?style=plastic&logo=wpf&logoColor=white)
   ![NET](https://img.shields.io/badge/.NET-4-532bd4?style=plastic&logo=.net&logoColor=white)
@@ -58,8 +56,6 @@ You can click the Preview link to take a look at your changes.
   ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
   ![GNU](https://img.shields.io/badge/GNU%20Octave%20-0990bf?&style=for-the-badge&logo=octave&logoColor=F05032)
   ![Jupyter](https://img.shields.io/badge/Jupyter-cbc2bd?&style=for-the-badge&logo=jupyter&logoColor=F05032)
-
- 
   ### Operating Systems
   ![linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
   ![windows](https://img.shields.io/badge/Windows-0474db?style=for-the-badge&logo=windows&logoColor=white)
