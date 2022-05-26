@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - 🌱 Familiar with Python, C++
 - 💞️ I’m looking to engage in research work as well as intern
 - 📫 Reach me at chindahadele2@gmail.com --->
- <img src="https://komarev.com/ghpvc/?username=logahn&label=Visits&color=blue&style=plastic" />![](https://github.com/Logahn/Logahn/blob/main/AI%20dev.gif?raw=true)
+<!--  <img src="https://komarev.com/ghpvc/?username=logahn&label=Visits&color=blue&style=plastic" /> -->
+ 
+
+ ![](https://github.com/Logahn/Logahn/blob/main/AI%20dev.gif?raw=true)
 
 
 
@@ -42,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
  
  ### Languages 
-  ![Python](https://img.shields.io/badge/Python-3.8-fbd240?style=plastic&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3.8-fbd240?style=plastic&logo=python&logoColor=white&left_color=blue&right_color=red)
   ![java](https://img.shields.io/badge/Java-1.8+-ec1d1e?style=plastic&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-17+-045c9c?style=plastic&logo=c%2B%2B&logoColor=white)
   ![mysql](https://img.shields.io/badge/MySQL-SQL+-045b8b?style=plastic&logo=mysql&logoColor=white)
@@ -69,6 +72,8 @@ You can click the Preview link to take a look at your changes.
   ![linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
   ![windows](https://img.shields.io/badge/Windows-0474db?style=for-the-badge&logo=windows&logoColor=white)
   
+  
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=logahn.visitor-badge&left_color=blue&right_color=red&style=plastic) 
 <p align="center">
     
 </p>
