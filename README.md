@@ -19,21 +19,26 @@ Here are some ideas to get you started:
 - 🌱 Familiar with Python, C++
 - 💞️ I’m looking to engage in research work as well as intern
 - 📫 Reach me at chindahadele2@gmail.com --->
-
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Nerd1)](https://github.com/AI-Nerd1/github-readme-stats)--->
-<!---[![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan&layout=compact)](https://github.com/AI-Nerd1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Nerd1&layout=compact)](https://github.com/AI-Nerd1/github-readme-stats)--->
-
-<!---[![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan)](https://github.com/AI-Nerd1/github-readme-stats) --->
+ <img src="https://komarev.com/ghpvc/?username=logahn&label=Visits&color=blue&style=plastic" />![](https://github.com/Logahn/Logahn/blob/main/AI%20dev.gif?raw=true)
 
 
-<!---![Adele's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Nerd1&show_icons=true&theme=radical)--->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logahn)](https://github.com/Logahn/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logahn&layout=compact)](https://github.com/Logahn/github-readme-stats)
+<!-- ![Adele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logahn&show_icons=true&theme=default) -->
+<!-- [![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan&layout=compact)](https://github.com/Logahn/github-readme-stats)  -->
+
+<!-- [![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan)](https://github.com/Logahn/github-readme-stats) -->
+
+
+
 
 <!---
 AI-Nerd1/AI-Nerd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
- ![](https://github.com/Logahn/Logahn/blob/main/AI%20dev.gif?raw=true)
+
 
  
  ### Languages 
@@ -67,8 +72,3 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     
 </p>
-
-
-
-
-
