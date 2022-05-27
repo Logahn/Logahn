@@ -92,7 +92,8 @@ You can click the Preview link to take a look at your changes.
   ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
   ![GNU](https://img.shields.io/badge/GNU%20Octave%20-0990bf?&style=for-the-badge&logo=octave&logoColor=F05032)
   ![Jupyter](https://img.shields.io/badge/Jupyter-cbc2bd?&style=for-the-badge&logo=jupyter&logoColor=F05032) -->
-  ### Operating Systems <br/>
+ 
+ ### Operating Systems <br/>
    <a href="Ubuntu" target="_blank"><img align="left" alt="Ubuntu" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/linux/ubuntu.png"></a>
    <a href="Linux" target="_blank"><img align="left" alt="Linux" height ="50px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/linux/linux.png"></a>
    <a href="Windows" target="_blank"><img align="left" alt="Windows" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/windows/windows.png"></a>
