@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
      <a href="Git Kraken" target="_blank"><img align="left" alt="Git Kraken" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/gitkraken/gitkraken.png"></a>
      <a href="GNU Octave" target="_blank"><img align="left" alt="GNU Octave" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/gnu/gnu.png"></a>
      <a href="Jupyter" target="_blank"><img align="left" alt="Jupyter" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/jupyter/jupyter.png"></a>
-       <a href="MySQL Workbench" target="_blank"><img align="left" alt="workbench" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/dbms_icons/workbench/workbench.png"></a>
+<!--        <a href="MySQL Workbench" target="_blank"><img align="left" alt="workbench" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/dbms_icons/workbench/workbench.png"></a> -->
    <br>
 <!--   ### 
   ![VScode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
