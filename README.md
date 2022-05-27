@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 Reach me at chindahadele2@gmail.com --->
 <!--  <img src="https://komarev.com/ghpvc/?username=logahn&label=Visits&color=blue&style=plastic" /> -->
  
-
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=logahn.visitor-badge&left_color=red&right_color=blue&style=plastic) 
  ![](https://github.com/Logahn/Logahn/blob/main/AI%20dev.gif?raw=true)
 
 
@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
   ![windows](https://img.shields.io/badge/Windows-0474db?style=for-the-badge&logo=windows&logoColor=white)
   
   
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=logahn.visitor-badge&left_color=blue&right_color=red&style=plastic) 
+  
 <p align="center">
     
 </p>
