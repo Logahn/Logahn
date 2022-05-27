@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logahn)](https://github.com/Logahn/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logahn&layout=compact)](https://github.com/Logahn/github-readme-stats)
 <!-- ![Adele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logahn&show_icons=true&theme=default) -->
 <!-- [![Adele's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Logan&layout=compact)](https://github.com/Logahn/github-readme-stats)  -->
 
@@ -53,6 +52,9 @@ You can click the Preview link to take a look at your changes.
   ![C#](https://img.shields.io/badge/C-10-87418b?style=plastic&logo=csharp&logoColor=white)
   ![XAML](https://img.shields.io/badge/XAML-.NET-529be7?style=plastic&logo=xaml&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-10.1-f4dc1c?style=plastic&logo=javascript&logoColor=white)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logahn&layout=compact)](https://github.com/Logahn/github-readme-stats)
+
   ### Frameworks
   ![WPF](https://img.shields.io/badge/WPF-4.5-84abf5?style=plastic&logo=wpf&logoColor=white)
   ![NET](https://img.shields.io/badge/.NET-4-532bd4?style=plastic&logo=.net&logoColor=white)
