@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.dart.dev" target="_blank"><img align="left" alt="dart" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/language_icons/dart/dart.png"></a>
  <a href="https://www.https://docs.microsoft.com/en-us/dotnet/csharp.com" target="_blank"><img align="left" alt="csharp" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/language_icons/csharp/csharp.png"></a>
  <a href="https://www.mysql.com" target="_blank"><img align="left" alt="mysql" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/language_icons/mysql/mysql.png"></a>
- <a href="https://[www.xaml.org](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0)" target="_blank"><img align="left" alt="xaml" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/language_icons/xaml/xaml.png"></a><br>
+ <a href="https://www.xaml.org" target="_blank"><img align="left" alt="xaml" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/language_icons/xaml/xaml.png"></a><br>
  
  
 <!--   ![Python](https://img.shields.io/badge/Python-3.8-fbd240?style=plastic&logo=python&logoColor=white&left_color=blue&right_color=red)
@@ -112,14 +112,14 @@ You can click the Preview link to take a look at your changes.
   
   ### Tools and IDEs<br/>
    <a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="Tensor Flow" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/tensorflow/tensorflow.png"></a>
-   <a href="[VS Code](https://code.visualstudio.com/)" target="_blank"><img align="left" alt="workbench" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/vscode/vscode.png"></a>
-   <a href="[PyTorch](https://pytorch.org/)" target="_blank"><img align="left" alt="PyTorch" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/pytorch/pytorch.png"></a>
-   <a href="[Android Studio](https://developer.android.com/studio)" target="_blank"><img align="left" alt="Android Studio" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/androidstudio/androidstudio.png"></a>
-   <a href="[Eclipse](https://www.eclipse.org/)" target="_blank"><img align="left" alt="Eclipse" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/eclipse/eclipse.png"></a>
-   <a href="[Git](https://git-scm.com/)" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/git/git.png"></a>
-   <a href="[Git Kraken](https://www.gitkraken.com/)" target="_blank"><img align="left" alt="Git Kraken" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/gitkraken/gitkraken.png"></a>
-   <a href="[GNU Octave](https://www.gnu.org/software/octave/index)" target="_blank"><img align="left" alt="GNU Octave" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/gnu/gnu.png"></a>
-   <a href="[Jupyter](https://jupyter.org/)" target="_blank"><img align="left" alt="Jupyter" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/jupyter/jupyter.png"></a>
+   <a href="https://code.visualstudio.com" target="_blank"><img align="left" alt="workbench" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/vscode/vscode.png"></a>
+   <a href="https://pytorch.org" target="_blank"><img align="left" alt="PyTorch" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/pytorch/pytorch.png"></a>
+   <a href="https://developer.android.com/studio" target="_blank"><img align="left" alt="Android Studio" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/androidstudio/androidstudio.png"></a>
+   <a href="https://www.eclipse.org" target="_blank"><img align="left" alt="Eclipse" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/eclipse/eclipse.png"></a>
+   <a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/git/git.png"></a>
+   <a href="https://www.gitkraken.com" target="_blank"><img align="left" alt="Git Kraken" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/gitkraken/gitkraken.png"></a>
+   <a href="https://www.gnu.org/software/octave/index" target="_blank"><img align="left" alt="GNU Octave" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/gnu/gnu.png"></a>
+   <a href="https://jupyter.org" target="_blank"><img align="left" alt="Jupyter" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/jupyter/jupyter.png"></a>
 <!--        <a href="MySQL Workbench" target="_blank"><img align="left" alt="workbench" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/dbms_icons/workbench/workbench.png"></a> -->
    <br>
 <!--   ### 
@@ -131,9 +131,9 @@ You can click the Preview link to take a look at your changes.
   ![Jupyter](https://img.shields.io/badge/Jupyter-cbc2bd?&style=for-the-badge&logo=jupyter&logoColor=F05032) -->
  
  ### Operating Systems <br/>
-   <a href="[Ubuntu](https://ubuntu.com/)" target="_blank"><img align="left" alt="Ubuntu" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/linux/ubuntu.png"></a>
-   <a href="[Linux](https://www.linux.org/)" target="_blank"><img align="left" alt="Linux" height ="50px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/linux/linux.png"></a>
-   <a href="[Windows](https://www.microsoft.com/)" target="_blank"><img align="left" alt="Windows" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/windows/windows.png"></a>
+   <a href="https://ubuntu.com" target="_blank"><img align="left" alt="Ubuntu" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/linux/ubuntu.png"></a>
+   <a href="https://www.linux.org" target="_blank"><img align="left" alt="Linux" height ="50px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/linux/linux.png"></a>
+   <a href="https://www.microsoft.com" target="_blank"><img align="left" alt="Windows" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/os_icons/windows/windows.png"></a>
    <br>
   
 <!--    ![linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
