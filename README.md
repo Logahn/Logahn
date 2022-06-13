@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--- - 👋 Hi, I’m Adele
 - 👀 I’m interested in AI and Robotics Programming
-- 🌱 Familiar with Python, C++
+- 🌱 Familiar with Python, C++ amongst a few
 - 💞️ I’m looking to engage in research work as well as intern
 - 📫 Reach me at chindahadele2@gmail.com --->
 <!--  <img src="https://komarev.com/ghpvc/?username=logahn&label=Visits&color=blue&style=plastic" /> -->
