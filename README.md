@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 >>> from skills import versatile, shiftless
 >>> def developer_attributes(name):
         """
-            Returns attributes for name
+            Returns attributes for name.
         """
         info = {}
         versatile_developers = versatile.good(developers.name)
