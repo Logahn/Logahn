@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
 <!--  ![](https://github.com/Logahn/Logahn/blob/main/AI%20dev.gif?raw=true) -->
 
-```python
+```python3
 >>> from people import developers
 >>> from skills import versatile, shiftless
 >>> def developer_attributes(name):
