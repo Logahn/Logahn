@@ -121,6 +121,7 @@ You can click the Preview link to take a look at your changes....
    <a href="https://www.gnu.org/software/octave/index" target="_blank"><img align="left" alt="GNU Octave" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/gnu/gnu.png"></a>
    <a href="https://jupyter.org" target="_blank"><img align="left" alt="Jupyter" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/ide_icons/jupyter/jupyter.png"></a>
 <!--        <a href="MySQL Workbench" target="_blank"><img align="left" alt="workbench" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/dbms_icons/workbench/workbench.png"></a> -->
+<a href="https://colab.research.google.com/" target="_blank"><img align="left" alt="Colab" height ="42px" src="https://raw.githubusercontent.com/Logahn/Logahn/main/readme_icons/framework_icons/colab/colab.png"></a>
    <br>
 <!--   ### 
   ![VScode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
