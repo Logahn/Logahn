@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - 📫 Reach me at chindahadele2@gmail.com --->
 <!--  <img src="https://komarev.com/ghpvc/?username=logahn&label=Visits&color=blue&style=plastic" /> -->
  
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=logahn.visitor-badge&left_color=red&right_color=blue&style=plastic) 
+<!--  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=logahn.visitor-badge&left_color=red&right_color=blue&style=plastic)  -->
+  ![Profile views](https://komarev.com/ghpvc/?username=logahn&title_color=ff0087&label_color=000000&style=flat&label=2023+PROFILE+VIEWS)
+ 
  
 <!--  ![](https://github.com/Logahn/Logahn/blob/main/AI%20dev.gif?raw=true) -->
 
